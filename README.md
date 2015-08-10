@@ -1,6 +1,3 @@
-okay my first project i don't know what the fukk i am doing 
-lets see i endup with   
-some thing cool or something useless cool shiit 
-probably goona call it give a fuk
-created by a fukkhead 
-oh yeah!!
+my first project just trying to creat a community complain where ppl can complain about things like a protest which the criminals in suits maybe the solve the problem 
+
+created by izzy ali
