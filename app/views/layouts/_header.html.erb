@@ -51,7 +51,7 @@
             <li><a href="#">Another action</a></li>
             <li><a href="#">Something else here</a></li>
             <% if user_signed_in? %>
-            <li role="separator" class="divider"></li>
+            <li><%= link_to "Account Settings", edit_user_registration_path %></li>
           <li><%= link_to "Log out", destroy_user_session_path, method: :delete %></li>
           <% end %>
           </ul>
