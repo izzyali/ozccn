@@ -117,9 +117,6 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
 
-PLATFORMS
-  x86-mingw32
-
 DEPENDENCIES
   bootstrap-sass
   coffee-rails (~> 4.0.0)
